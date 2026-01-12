@@ -1,0 +1,10 @@
+{
+  "I.a Undep. & non-interest cash": "ASSET",
+  "21b Occupancy - Activity Rel": "EXPENSE",
+  "03.b Adj Gross Event Income": "INCOME",
+  "03.a Demos &  Act. Fees": "INCOME",
+  "19a General Supplies -  O&A": "EXPENSE",
+  "19b General Supplies - Activity": "EXPENSE",
+  "30a Funds xfer out - in kingdom": "LIABILITY",
+  "30b Funds xfer out - outside kd: (A)To Corporate Office": "LIABILITY"
+}
